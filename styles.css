@@ -59,12 +59,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .name {
-    color: rgb(255, 140, 0);
-    text-shadow:
-    0 0 3px rgba(255, 115, 0, 0.726),
-    0 0 8px rgba(255, 115, 0, 0.582),
-    0 0 12px rgba(255, 115, 0, 0.568),
-    0 0 22px rgba(255, 115, 0, 0.541);
+    color: rgb(255, 130, 0);
 }
 
 .portrait-wrapper {
