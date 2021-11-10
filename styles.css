@@ -154,7 +154,7 @@ code {
 
     body {
         background: linear-gradient(-45deg, black, #3d1a00, #161616, var(--neon-orange));
-        background-size: 400% 800%;
+        background-size: 400% 400%;
     }
 }
 
