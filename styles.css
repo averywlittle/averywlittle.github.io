@@ -59,7 +59,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .name {
-    color: rgb(255, 130, 0);
+    color: #FC8701;
 }
 
 .portrait-wrapper {
@@ -114,7 +114,7 @@ code {
 .project {
     border-radius: 0 0 10px 10px;
     background-color: var(--project-card-bg);
-    border-top: 4px solid var(--neon-orange);
+    border-top: 4px solid #FC8701;
     padding: 25px;
     margin-bottom: 30px;
     box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
