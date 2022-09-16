@@ -2,7 +2,7 @@ body {
     background: linear-gradient(-55deg, black, #3d1a00, #161616, var(--neon-orange));
 	background-size: 800% 400%;
 	animation: gradient 30s ease infinite;
-	height: 100vh;
+	height: 110vh;
     color: white;
     display: flex;
     flex-direction: column;
@@ -102,7 +102,7 @@ code {
 
 .projects {
     padding: 10px;
-    padding-bottom: 500px;
+    padding-bottom: 50px;
     text-align: left;
     max-width: 650px;
     display: flex;
