@@ -2,7 +2,7 @@ body {
     background: linear-gradient(-55deg, black, #3d1a00, #161616, var(--neon-orange));
 	background-size: 800% 400%;
 	animation: gradient 30s ease infinite;
-	min-height: 200vh;
+    height: 100%;
     color: white;
     display: flex;
     flex-direction: column;
@@ -155,7 +155,7 @@ code {
         background: linear-gradient(-45deg, black, #3d1a00, #161616, var(--neon-orange));
         background-size: 400% 400%;
         animation: gradient 15s ease infinite;
-        min-height: 100vh;
+        min-height: 00vh;
     }
 }
 
