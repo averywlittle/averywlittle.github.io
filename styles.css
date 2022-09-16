@@ -79,7 +79,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .career {
-    padding: 10px 0px;
+    padding: 10px;
     text-align: left;
     max-width: 400px;
 }
@@ -101,7 +101,7 @@ code {
 }
 
 .projects {
-    padding: 10px 0px;
+    padding: 10px;
     text-align: left;
     max-width: 650px;
     display: flex;
