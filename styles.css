@@ -129,10 +129,6 @@ code {
     padding-bottom: 10px;
 }
 
-.project-link {
-    color: var(--secondary-text-color);
-}
-
 @media screen and (min-width: 700px) {
     .content {
         display: flex;
