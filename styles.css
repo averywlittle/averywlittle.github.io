@@ -44,7 +44,7 @@ a, a:visited, a:hover, a:active {
 
 .content {
     text-align: left;
-    margin: 40px 10px 40px 10px;
+    margin: 60px 10px 40px 10px;
 }
 
 .info {
@@ -79,9 +79,8 @@ a, a:visited, a:hover, a:active {
 }
 
 .career {
-    padding-bottom: 150px;
+    padding: 20px;
     text-align: left;
-    margin: 10px 10px 40px;
     max-width: 400px;
 }
 
@@ -102,8 +101,12 @@ code {
 }
 
 .projects {
-    margin-top: 50px;
-    padding-bottom: 50px;
+    padding: 20px;
+    text-align: left;
+    max-width: 650px;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
 }
 
 .projects-container {
@@ -114,9 +117,8 @@ code {
 }
 
 .project {
-    border-radius: 0 0 10px 10px;
+    border-radius: 4px;
     background-color: var(--project-card-bg);
-    border-top: 4px solid var(--alternate-orange);
     padding: 25px;
     margin-bottom: 30px;
     box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
@@ -143,6 +145,10 @@ code {
 
     .menu-item {
         margin: 15px;
+    }
+
+    .projects {
+        width: 100%;
     }
 
     .career {
@@ -173,13 +179,10 @@ code {
     }
 
     .project {
-        border-radius: 0 0 10px 10px;
+        border-radius: 4px;
         background-color: var(--project-card-bg);
-        border-top: 4px solid var(--neon-orange);
         padding: 30px;
-        margin-bottom: 0px;
         box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
-        /* animation: fade .7s ease-in-out forwards; */
     }
 
     .project-one {
